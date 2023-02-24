@@ -1,0 +1,22 @@
+.site-header{
+    background-color: rgb(232, 10, 143);
+    color:white;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.profile-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.site-header-content{
+     margin: 10px;
+}
+
+body{
+    margin: 0;
+   }

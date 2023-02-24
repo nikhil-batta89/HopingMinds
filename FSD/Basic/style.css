@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Kameron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kameron&family=M+PLUS+Rounded+1c:wght@100;400&display=swap');
+body{
+    background-color: aqua;
+    }
+*{
+    margin:0;
+    padding:0;
+}
+
+nav{
+    font-family: 'Kameron', serif;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    height: 65px;
+    background-color: black;
+}
+.brand img{
+    width: 700px; 
+
+}

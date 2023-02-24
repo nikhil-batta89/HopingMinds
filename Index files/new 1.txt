@@ -1,0 +1,14 @@
+<!Doctype html>
+<html>
+<head>
+  <meta></meta>
+  <title>Pratice</title>  
+</head>
+<body>
+    <center>
+    <h1>Chitkara University</h1>
+	<p>I had done more activities to the university </p>
+	</center>
+
+</body>
+<html>
