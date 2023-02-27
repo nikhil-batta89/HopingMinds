@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(background.jpg);
+    max-width: max-content;
+    margin-top: 180px;
+    background-size:cover;
+    background-position: center;
+    box-sizing:border-box;
+    font-family: sans-serif;
+}
+.menu-bar{
+    background: rgb(0, 100, 0);
+    text-align: center;
+}
+.menu-bar ul{
+    display: inline-flex;
+    list-style:none;
+    color: #fff;
+}
